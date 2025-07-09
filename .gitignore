@@ -1,0 +1,28 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Notebooks
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Virtual environments
+.env/
+.venv/
+venv/
+conda-meta/
+pkgs/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Jupyter runtime
+~/.local/share/jupyter/
+
+# Environment-specific
+*.env
