@@ -26,3 +26,10 @@ pkgs/
 
 # Environment-specific
 *.env
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore model artifacts
+*.pkl
